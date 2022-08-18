@@ -6,5 +6,6 @@ public class c {
 
 
         System.out.println("ok");
+        System.out.println("ok");
     }
 }
